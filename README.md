@@ -59,6 +59,19 @@ RMD Sinhgad School of Engineering, Pune
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-patil-dev&show_icons=true&theme=tokyonight" alt="Kunal's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-patil-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-patil-dev&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 ## 📫 Connect With Me  
 
 - 📍 Pune, Maharashtra  
