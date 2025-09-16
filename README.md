@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there 👋, I'm Kunal Patil  
 
-<!--
-**kunal-patil-dev/kunal-patil-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Computer Engineering student with hands-on experience in **frontend development** and a strong interest in **backend technologies**. I enjoy solving problems with **DSA** and building **real-world full-stack applications** that are scalable, efficient, and impactful.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Java, JavaScript  
+- **Frontend:** React.js, HTML, CSS, Tailwind CSS  
+- **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth)  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools & Technologies:** Git, GitHub, Postman, Prisma ORM, GitHub Copilot, ChatGPT  
+
+---
+
+## 💼 Experience
+
+**Frontend Engineer Intern** – *Coding Savvy*  
+*Dec 2024 – Jan 2025*  
+- Built responsive UI components with React, HTML, CSS, Bootstrap, and JavaScript.  
+- Collaborated with the team to design user-friendly interfaces, enhancing usability.  
+- Delivered features in agile development cycles with version control via GitHub.  
+
+---
+
+## 🚀 Projects  
+
+### 🔹 [Smart LMS – AI Powered Learning Platform](https://smart-lms-d0zm.onrender.com/)  
+[GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
+A SaaS-based Learning Management System with AI-powered course discovery and secure payments.  
+**Tech:** MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Google Gemini API  
+- Integrated AI-powered course recommendations.  
+- Secure authentication (Google OAuth) & payment processing with Razorpay.  
+- Student & Instructor dashboards with analytics and progress tracking.  
+
+---
+
+### 🔹 SocialSync – Real-Time Social & Video Chat Platform  
+A real-time social and language exchange platform with chat, video calls, and onboarding flows.  
+**Tech:** MERN, TanStack Query, TailwindCSS, Zustand, Stream API, JWT  
+- Real-time chat and 1-on-1/group video calls with screen sharing & recording.  
+- Secure JWT authentication and onboarding flows.  
+- 32+ themes with responsive UI & scalable APIs via Stream.  
+
+---
+
+## 🎓 Education  
+
+**Bachelor of Engineering (B.E.) – Computer Engineering**  
+RMD Sinhgad School of Engineering, Pune  
+*Nov 2022 – June 2026*  
+
+---
+
+## 📜 Certifications  
+
+- [Java Programming – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/f185f68c07eae5a976f1cf5488c8c9a7.pdf)  
+
+---
+
+## 📫 Connect With Me  
+
+- 📍 Pune, Maharashtra  
+- ✉️ [kunal.patil.dev@gmail.com](mailto:kunal.patil.dev@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/kunal-patil-dev)  
+- 💻 [GitHub](https://github.com/kunal-patil-dev)  
+
+---
+⭐️ From [Kunal Patil](https://github.com/kunal-patil-dev)  
