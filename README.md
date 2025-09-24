@@ -1,16 +1,16 @@
 # Hi there 👋, I'm Kunal Patil  
 
-🚀 Passionate Computer Engineering student with hands-on experience in **frontend development** and a strong interest in **backend technologies**. I enjoy solving problems with **DSA** and building **real-world full-stack applications** that are scalable, efficient, and impactful.  
+🚀 Passionate Computer Engineering student with hands-on experience in **Frontend Development** and a strong interest in **Backend technologies**. I enjoy solving problems with **DSA** and building **Real-world Full-stack applications** that are scalable, efficient, and impactful.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, JavaScript  
-- **Frontend:** React.js, HTML, CSS, Tailwind CSS  
+- **Languages:** Java, JavaScript, Python, C++  
+- **Frontend:** React.js, HTML, CSS, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth)  
-- **Databases:** MongoDB, PostgreSQL  
-- **Tools & Technologies:** Git, GitHub, Postman, Prisma ORM, GitHub Copilot, ChatGPT  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Tools & Technologies:** Git, GitHub, Postman, Prisma ORM
 
 ---
 
@@ -18,9 +18,12 @@
 
 **Frontend Engineer Intern** – *Coding Savvy*  
 *Dec 2024 – Jan 2025*  
-- Built responsive UI components with React, HTML, CSS, Bootstrap, and JavaScript.  
-- Collaborated with the team to design user-friendly interfaces, enhancing usability.  
-- Delivered features in agile development cycles with version control via GitHub.  
+
+• **Built responsive UI components** using React.js, HTML5, CSS3, and Bootstrap, enhancing cross-device usability.
+• **Collaborated with designers and developers** to improve navigation, creating an intuitive user experience.
+• **Contributed to agile development cycles**, ensuring timely delivery of features and regular product enhancements.
+• **Utilized GitHub for version control**, maintaining clean, well-documented code for team collaboration.
+
 
 ---
 
@@ -28,20 +31,23 @@
 
 ### 🔹 [Smart LMS – AI Powered Learning Platform](https://smart-lms-d0zm.onrender.com/)  
 [GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
-A SaaS-based Learning Management System with AI-powered course discovery and secure payments.  
-**Tech:** MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Google Gemini API  
-- Integrated AI-powered course recommendations.  
-- Secure authentication (Google OAuth) & payment processing with Razorpay.  
-- Student & Instructor dashboards with analytics and progress tracking.  
+SaaS-based Learning Management System with AI-driven course discovery and secure payments.
+• **Integrated Gemini API** to deliver personalized course recommendations, enhancing learner engagement.
+• **Implemented Google OAuth and Razorpay** for secure, seamless transactions.
+• **Developed student and instructor dashboards** with real-time analytics for progress tracking.
+**Tech Stack**: MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Google Gemini API
 
 ---
 
 ### 🔹 SocialSync – Real-Time Social & Video Chat Platform  
-A real-time social and language exchange platform with chat, video calls, and onboarding flows.  
-**Tech:** MERN, TanStack Query, TailwindCSS, Zustand, Stream API, JWT  
-- Real-time chat and 1-on-1/group video calls with screen sharing & recording.  
-- Secure JWT authentication and onboarding flows.  
-- 32+ themes with responsive UI & scalable APIs via Stream.  
+
+Real-time social and language exchange platform with messaging, video calls, and onboarding flows
+• **Built real-time chat and video calling** with screen sharing and recording, enabling seamless social interaction.
+• **Implemented secure JWT-based authentication** with protected routes, ensuring reliable access control.
+• **Designed friend system and onboarding workflows**, boosting user engagement and retention.
+• **Developed 32 custom UI themes** and integrated scalable Stream APIs for high-performance messaging.
+**Tech Stack: MERN**, TanStack Query, TailwindCSS, Zustand, Stream API, JWT
+
 
 ---
 
@@ -55,7 +61,9 @@ RMD Sinhgad School of Engineering, Pune
 
 ## 📜 Certifications  
 
-- [Java Programming – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/f185f68c07eae5a976f1cf5488c8c9a7.pdf)  
+- [Java Programming – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/f185f68c07eae5a976f1cf5488c8c9a7.pdf)
+- [ReactJS Development – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/8113178e201c98d845adff9e981049ee.pdf)
+- [MongoDB Developer’s Toolkit – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/1cb32475733abea10df355053f7c283b.pdf)
 
 ---
 
@@ -64,7 +72,8 @@ RMD Sinhgad School of Engineering, Pune
 - 📍 Pune, Maharashtra  
 - ✉️ [kunal.patil.dev@gmail.com](mailto:kunal.patil.dev@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/kunal-patil-dev)  
-- 💻 [GitHub](https://github.com/kunal-patil-dev)  
+- 💻 [GitHub](https://github.com/kunal-patil-dev)
+- 🌐 [Portfolio](https://kunalpatil-olive.vercel.app/)
 
 ---
 ⭐️ From [Kunal Patil](https://github.com/kunal-patil-dev)  
