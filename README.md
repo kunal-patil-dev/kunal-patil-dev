@@ -29,8 +29,8 @@
 
 ## 🚀 Projects  
 
-### 🔹 [Smart LMS – AI Powered Learning Platform](https://smart-lms-d0zm.onrender.com/)  
-[GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
+### 🔹Smart LMS – AI Powered Learning Platform [Live Demo](https://smart-lms-d0zm.onrender.com/) | [GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
+
 SaaS-based Learning Management System with AI-driven course discovery and secure payments.
 - **Integrated Gemini API** to deliver personalized course recommendations, enhancing learner engagement.
 - **Implemented Google OAuth and Razorpay** for secure, seamless transactions.
