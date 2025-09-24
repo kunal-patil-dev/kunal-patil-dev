@@ -19,10 +19,10 @@
 **Frontend Engineer Intern** – *Coding Savvy*  
 *Dec 2024 – Jan 2025*  
 
--• **Built responsive UI components** using React.js, HTML5, CSS3, and Bootstrap, enhancing cross-device usability.
--• **Collaborated with designers and developers** to improve navigation, creating an intuitive user experience.
--• **Contributed to agile development cycles**, ensuring timely delivery of features and regular product enhancements.
--• **Utilized GitHub for version control**, maintaining clean, well-documented code for team collaboration.
+- • **Built responsive UI components** using React.js, HTML5, CSS3, and Bootstrap, enhancing cross-device usability.
+- • **Collaborated with designers and developers** to improve navigation, creating an intuitive user experience.
+- • **Contributed to agile development cycles**, ensuring timely delivery of features and regular product enhancements.
+- • **Utilized GitHub for version control**, maintaining clean, well-documented code for team collaboration.
 
 
 ---
