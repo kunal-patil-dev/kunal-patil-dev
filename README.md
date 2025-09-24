@@ -19,10 +19,10 @@
 **Frontend Engineer Intern** – *Coding Savvy*  
 *Dec 2024 – Jan 2025*  
 
-- • **Built responsive UI components** using React.js, HTML5, CSS3, and Bootstrap, enhancing cross-device usability.
-- • **Collaborated with designers and developers** to improve navigation, creating an intuitive user experience.
-- • **Contributed to agile development cycles**, ensuring timely delivery of features and regular product enhancements.
-- • **Utilized GitHub for version control**, maintaining clean, well-documented code for team collaboration.
+- **Built responsive UI components** using React.js, HTML5, CSS3, and Bootstrap, enhancing cross-device usability.
+- **Collaborated with designers and developers** to improve navigation, creating an intuitive user experience.
+- **Contributed to agile development cycles**, ensuring timely delivery of features and regular product enhancements.
+- **Utilized GitHub for version control**, maintaining clean, well-documented code for team collaboration.
 
 
 ---
@@ -32,9 +32,9 @@
 ### 🔹 [Smart LMS – AI Powered Learning Platform](https://smart-lms-d0zm.onrender.com/)  
 [GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
 SaaS-based Learning Management System with AI-driven course discovery and secure payments.
-• **Integrated Gemini API** to deliver personalized course recommendations, enhancing learner engagement.
-• **Implemented Google OAuth and Razorpay** for secure, seamless transactions.
-• **Developed student and instructor dashboards** with real-time analytics for progress tracking.
+- **Integrated Gemini API** to deliver personalized course recommendations, enhancing learner engagement.
+- **Implemented Google OAuth and Razorpay** for secure, seamless transactions.
+- **Developed student and instructor dashboards** with real-time analytics for progress tracking.
 **Tech Stack**: MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Google Gemini API
 
 ---
@@ -42,10 +42,10 @@ SaaS-based Learning Management System with AI-driven course discovery and secure
 ### 🔹 SocialSync – Real-Time Social & Video Chat Platform  
 
 Real-time social and language exchange platform with messaging, video calls, and onboarding flows
-• **Built real-time chat and video calling** with screen sharing and recording, enabling seamless social interaction.
-• **Implemented secure JWT-based authentication** with protected routes, ensuring reliable access control.
-• **Designed friend system and onboarding workflows**, boosting user engagement and retention.
-• **Developed 32 custom UI themes** and integrated scalable Stream APIs for high-performance messaging.
+- **Built real-time chat and video calling** with screen sharing and recording, enabling seamless social interaction.
+- **Implemented secure JWT-based authentication** with protected routes, ensuring reliable access control.
+- **Designed friend system and onboarding workflows**, boosting user engagement and retention.
+- **Developed 32 custom UI themes** and integrated scalable Stream APIs for high-performance messaging.
 **Tech Stack: MERN**, TanStack Query, TailwindCSS, Zustand, Stream API, JWT
 
 
