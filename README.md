@@ -35,7 +35,7 @@ SaaS-based Learning Management System with AI-driven course discovery and secure
 - **Integrated Gemini API** to deliver personalized course recommendations, enhancing learner engagement.
 - **Implemented Google OAuth and Razorpay** for secure, seamless transactions.
 - **Developed student and instructor dashboards** with real-time analytics for progress tracking.
-**Tech Stack**: MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Google Gemini API
+- **Tech Stack**: MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Google Gemini API
 
 ---
 
@@ -46,7 +46,7 @@ Real-time social and language exchange platform with messaging, video calls, and
 - **Implemented secure JWT-based authentication** with protected routes, ensuring reliable access control.
 - **Designed friend system and onboarding workflows**, boosting user engagement and retention.
 - **Developed 32 custom UI themes** and integrated scalable Stream APIs for high-performance messaging.
-**Tech Stack: MERN**, TanStack Query, TailwindCSS, Zustand, Stream API, JWT
+- **Tech Stack: MERN**, TanStack Query, TailwindCSS, Zustand, Stream API, JWT
 
 
 ---
