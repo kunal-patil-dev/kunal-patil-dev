@@ -1,20 +1,37 @@
 # Hi there 👋, I'm Kunal Patil  
 
 🎓 Computer Engineering Student | 2026 Grad  
-🧑🏻‍💻 Full Stack Developer (MERN Stack)  
-🌍 Cloud Enthusiast | Exploring AI/ML  
-📌 Interests: Web Development, Databases, Cloud, AI/ML, Problem Solving  
+🧑🏻‍💻 Full Stack Developer (MERN Stack) 
+☁️ Cloud & DevOps Enthusiast (Currently Learning AWS & CI/CD) 
+🤖 Exploring Generative AI (GenAI) & AI/ML
+📌 Interests: Web Development, Databases, Cloud, AI/ML, DevOps, Problem Solving  
 🚀 Driven by curiosity | Committed to continuously exploring, building, and learning every day  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills Roadmap – Now | Next | Future  
 
+### ✅ Now (What I Work With)
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS, Bootstrap  
 - **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth)  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Tools & Technologies:** Git, GitHub, Postman, Prisma ORM, Linux  
 - **Languages:** Java, JavaScript, TypeScript, Python, C++  
+- **Tools & Technologies:** Git, GitHub, Postman, Prisma ORM, Linux  
+
+---
+
+### 📚 Next (Currently Learning)
+- **Cloud:** AWS Cloud Fundamentals (EC2, S3, IAM, RDS basics)  
+- **DevOps:** Docker, CI/CD pipelines, GitHub Actions  
+- **GenAI:** Google Gemini API, Hugging Face, LangChain  
+
+---
+
+### 🚀 Future (Planned Exploration)
+- Advanced **System Design**  
+- **Microservices & Scalability**  
+- **Kubernetes & Advanced DevOps**  
+- **AI/ML Integration with Web Apps**  
 
 ---
 
@@ -63,19 +80,20 @@ RMD Sinhgad School of Engineering, Pune
 
 ## 📜 Certifications  
 
-- [ReactJS Development – GeeksforGeeks ↗️](https://media.geeksforgeeks.org/courses/certificates/8113178e201c98d845adff9e981049ee.pdf)  
-- [Java Programming – GeeksforGeeks ↗️](https://media.geeksforgeeks.org/courses/certificates/f185f68c07eae5a976f1cf5488c8c9a7.pdf)  
-- [MongoDB Developer’s Toolkit – GeeksforGeeks ↗️](https://media.geeksforgeeks.org/courses/certificates/1cb32475733abea10df355053f7c283b.pdf)  
+- ReactJS Development – [GeeksforGeeks ↗️](https://media.geeksforgeeks.org/courses/certificates/8113178e201c98d845adff9e981049ee.pdf)  
+- Java Programming – [GeeksforGeeks ↗️](https://media.geeksforgeeks.org/courses/certificates/f185f68c07eae5a976f1cf5488c8c9a7.pdf)  
+- MongoDB Developer’s Toolkit – [GeeksforGeeks ↗️](https://media.geeksforgeeks.org/courses/certificates/1cb32475733abea10df355053f7c283b.pdf)  
 
 ---
 
 ## 📫 Connect With Me  
 
 - 📍 Pune, Maharashtra  
-- ✉️ [kunal.patil.dev@gmail.com](mailto:kunal.patil.dev@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/kunal-patil-dev)  
-- 💻 [GitHub](https://github.com/kunal-patil-dev)  
-- 🌐 [Portfolio](https://kunalpatil-olive.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-patil-dev)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-patil-dev)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunal.patil.dev@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kunalpatil-olive.vercel.app/)  
+
 
 ---
 
