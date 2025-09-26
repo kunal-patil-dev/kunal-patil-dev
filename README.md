@@ -37,11 +37,13 @@
 
 ## 💼 Experience  
 
-**Frontend Engineer Intern** – *Coding Savvy*  
+### Frontend Engineer Intern – *Coding Savvy*  
 **Project:** Elegant Vision | *Dec 2024 – Jan 2025*  
 
-Worked on **responsive UI components**, improved **user experience**, and collaborated in **agile sprints**.  
-**Tech Used:** React.js, HTML5, CSS3, Bootstrap, GitHub
+- Worked on **responsive UI components** to improve cross-device usability  
+- Enhanced **user experience** through improved navigation and design  
+- Collaborated in **agile sprints** for timely feature delivery  
+- **Tech Used:** React.js, HTML5, CSS3, Bootstrap, GitHub  
 
 ---
 
@@ -49,16 +51,18 @@ Worked on **responsive UI components**, improved **user experience**, and collab
 
 ### 🔹 [Smart LMS – AI Powered Learning Platform](https://smart-lms-d0zm.onrender.com/) | [GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
 
-Built a SaaS LMS with **personalized AI course recommendations**, **secure Google OAuth + Razorpay integration**, and **real-time dashboards** for students & instructors.  
-**Tech Stack:** MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Gemini API  
+- Built a SaaS LMS with **personalized AI course recommendations**  
+- Integrated **Google OAuth + Razorpay** for secure authentication and payments  
+- Developed **real-time dashboards** for students & instructors  
+- **Tech Stack:** MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Gemini API  
 
 ---
 
 ### 🔹 SocialSync – Real-Time Social & Video Chat Platform  
 
-Developed a social platform with **real-time messaging, video calls (with screen sharing/recording)**, secure **JWT auth**, and **onboarding + friend system** to enhance engagement.  
-**Tech Stack:** MERN, TanStack Query, TailwindCSS, Zustand, Stream API, JWT 
-
+- Developed a platform with **real-time messaging and video calls** (with screen sharing/recording)  
+- Implemented secure **JWT-based authentication** and onboarding + friend system  
+- **Tech Stack:** MERN, TanStack Query, TailwindCSS, Zustand, Stream API, JWT  
 ---
 
 ## 🎓 Education  
