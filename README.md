@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Kunal Patil  
 
-🎓 Computer Engineering Student | 2026 Grad  
-🧑🏻‍💻 Full Stack Developer (MERN Stack) 
-☁️ Cloud & DevOps Enthusiast (Currently Learning AWS & CI/CD) 
-🤖 Exploring Generative AI (GenAI) & AI/ML
-📌 Interests: Web Development, Databases, Cloud, AI/ML, DevOps, Problem Solving  
-🚀 Driven by curiosity | Committed to continuously exploring, building, and learning every day  
+- 🎓 Computer Engineering Student | 2026 Grad  
+- 🧑🏻‍💻 Full Stack Developer (MERN Stack) 
+- ☁️ Cloud & DevOps Enthusiast (Currently Learning AWS & CI/CD) 
+- 🤖 Exploring Generative AI (GenAI) & AI/ML
+- 📌 Interests: Web Development, Databases, Cloud, AI/ML, DevOps, Problem Solving  
+- 🚀 Driven by curiosity | Committed to continuously exploring, building, and learning every day  
 
 ---
 
@@ -38,12 +38,10 @@
 ## 💼 Experience  
 
 **Frontend Engineer Intern** – *Coding Savvy*  
-*Dec 2024 – Jan 2025*  
+**Project:** Elegant Vision | *Dec 2024 – Jan 2025*  
 
-- Built responsive UI components using React.js, HTML5, CSS3, and Bootstrap, enhancing cross-device usability.  
-- Collaborated with designers and developers to improve navigation, creating an intuitive user experience.  
-- Contributed to agile development cycles, ensuring timely delivery of features and regular product enhancements.  
-- Utilized GitHub for version control, maintaining clean, well-documented code for team collaboration.  
+Worked on **responsive UI components**, improved **user experience**, and collaborated in **agile sprints**.  
+**Tech Used:** React.js, HTML5, CSS3, Bootstrap, GitHub
 
 ---
 
@@ -51,29 +49,22 @@
 
 ### 🔹 [Smart LMS – AI Powered Learning Platform](https://smart-lms-d0zm.onrender.com/) | [GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
 
-SaaS-based Learning Management System with AI-driven course discovery and secure payments.  
-- Integrated Gemini API to deliver personalized course recommendations, enhancing learner engagement.  
-- Implemented Google OAuth and Razorpay for secure, seamless transactions.  
-- Developed student and instructor dashboards with real-time analytics for progress tracking.  
-- **Tech Stack:** MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Google Gemini API  
+Built a SaaS LMS with **personalized AI course recommendations**, **secure Google OAuth + Razorpay integration**, and **real-time dashboards** for students & instructors.  
+**Tech Stack:** MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Gemini API  
 
 ---
 
 ### 🔹 SocialSync – Real-Time Social & Video Chat Platform  
 
-A real-time social and language exchange platform with messaging, video calls, and onboarding flows.  
-- Built real-time chat and video calling with screen sharing and recording, enabling seamless social interaction.  
-- Implemented secure JWT-based authentication with protected routes, ensuring reliable access control.  
-- Designed friend system and onboarding workflows, boosting user engagement and retention.  
-- Developed 32 custom UI themes and integrated scalable Stream APIs for high-performance messaging.  
-- **Tech Stack:** MERN, TanStack Query, TailwindCSS, Zustand, Stream API, JWT  
+Developed a social platform with **real-time messaging, video calls (with screen sharing/recording)**, secure **JWT auth**, and **onboarding + friend system** to enhance engagement.  
+**Tech Stack:** MERN, TanStack Query, TailwindCSS, Zustand, Stream API, JWT 
 
 ---
 
 ## 🎓 Education  
 
 **Bachelor of Engineering (B.E.) – Computer Engineering**  
-RMD Sinhgad School of Engineering, Pune  
+RMD Sinhgad School of Engineering, Pune, Maharashtra
 *Nov 2022 – June 2026*  
 
 ---
@@ -88,7 +79,8 @@ RMD Sinhgad School of Engineering, Pune
 
 ## 📫 Connect With Me  
 
-- 📍 Pune, Maharashtra  
+- 📍 Pune, Maharashtra
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-patil-dev)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-patil-dev)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunal.patil.dev@gmail.com)  
