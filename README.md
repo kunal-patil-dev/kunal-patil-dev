@@ -9,29 +9,12 @@
 
 ---
 
-## 🛠️ Skills Roadmap – Now | Next | Future  
-
-### ✅ Now (What I Work With)
+## 🛠️ Skills --
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS, Bootstrap  
 - **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth)  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Languages:** Java, JavaScript, TypeScript, Python, C++  
+- **Languages:** Java, JavaScript, TypeScript, C++, Python
 - **Tools & Technologies:** Git, GitHub, Postman, Prisma ORM, Linux  
-
----
-
-### 📚 Next (Currently Learning)
-- **Cloud:** AWS Cloud Fundamentals (EC2, S3, IAM, RDS basics)  
-- **DevOps:** Docker, CI/CD pipelines, GitHub Actions  
-- **GenAI:** Google Gemini API, Hugging Face, LangChain  
-
----
-
-### 🚀 Future (Planned Exploration)
-- Advanced **System Design**  
-- **Microservices & Scalability**  
-- **Kubernetes & Advanced DevOps**  
-- **AI/ML Integration with Web Apps**  
 
 ---
 
@@ -49,7 +32,7 @@
 
 ## 🚀 Projects  
 
-### 🔹 [Smart LMS – AI Powered Learning Platform](https://smart-lms-d0zm.onrender.com/) | [GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
+### 🔹Smart LMS – AI Powered Learning Platform [Live Demo](https://smart-lms-d0zm.onrender.com/) | [GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
 
 - Built a SaaS LMS with **personalized AI course recommendations**  
 - Integrated **Google OAuth + Razorpay** for secure authentication and payments  
