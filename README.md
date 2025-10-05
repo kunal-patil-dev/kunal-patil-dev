@@ -49,7 +49,7 @@
 
 ## 🎓 Education  
 
-**Bachelor of Engineering (B.E.) – Computer Engineering**  
+**Bachelor of Engineering (B.E.) – Computer Engineering (Pune University)**  
 RMD Sinhgad School of Engineering, Pune, Maharashtra
 *Nov 2022 – June 2026*  
 
