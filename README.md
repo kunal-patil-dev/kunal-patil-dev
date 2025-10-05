@@ -40,7 +40,7 @@
 
 ---
 
-### 🔹 SocialSync – Real-Time Social & Video Chat Platform  
+### 🔹 SocialSync – Real-Time Social & Video Chat Platform  [Live Demo](https://socialsync-sp8d.onrender.com/) | [GitHub Repo](https://github.com/kunalpatil-dev/SocialSync)  
 
 - Developed a platform with **real-time messaging and video calls** (with screen sharing/recording)  
 - Implemented secure **JWT-based authentication** and onboarding + friend system  
