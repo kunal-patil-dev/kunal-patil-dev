@@ -2,7 +2,6 @@
 
 - 🎓 Computer Engineering Student | 2026 Grad  
 - 🧑🏻‍💻 Full Stack Developer (MERN Stack) 
-- ☁️ Cloud & DevOps Enthusiast (Currently Learning AWS & CI/CD) 
 - 🤖 Exploring Generative AI (GenAI) & AI/ML
 - 📌 Interests: Web Development, Databases, Cloud, AI/ML, DevOps, Problem Solving  
 - 🚀 Driven by curiosity | Committed to continuously exploring, building, and learning every day  
@@ -58,7 +57,6 @@ RMD Sinhgad School of Engineering, Pune, Maharashtra
 
 ## 📜 Certifications  
 
-- OCI Foundations Associate (2025) – [Oracle ↗️](https://catalog-education.oracle.com/ords/certview/sharebadge?id=06F688B7BCFFD3C31B468C1B178D8048575B3D040A4CA1FA4308FA89C339728C) 
 - ReactJS Development – [GeeksforGeeks ↗️](https://media.geeksforgeeks.org/courses/certificates/8113178e201c98d845adff9e981049ee.pdf)  
 - Java Programming – [GeeksforGeeks ↗️](https://media.geeksforgeeks.org/courses/certificates/f185f68c07eae5a976f1cf5488c8c9a7.pdf)  
 - MongoDB Developer’s Toolkit – [GeeksforGeeks ↗️](https://media.geeksforgeeks.org/courses/certificates/1cb32475733abea10df355053f7c283b.pdf)
