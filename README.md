@@ -2,14 +2,13 @@
 
 - 🎓 Computer Engineering Student | 2026 Grad  
 - 🧑🏻‍💻 Full Stack Developer (MERN Stack) 
-- 🤖 Exploring Generative AI (GenAI) & AI/ML
 - 📌 Interests: Web Development, Databases, Cloud, AI/ML, DevOps, Problem Solving  
 - 🚀 Driven by curiosity | Committed to continuously exploring, building, and learning every day  
 
 ---
 
 ## 🛠️ Skills --
-- **Frontend:** React.js, Tailwind CSS, HTML, CSS, Bootstrap  
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS  
 - **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth)  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
 - **Languages:** Java, JavaScript, TypeScript, C++, Python
@@ -25,7 +24,7 @@
 - Worked on **responsive UI components** to improve cross-device usability  
 - Enhanced **user experience** through improved navigation and design  
 - Collaborated in **agile sprints** for timely feature delivery  
-- **Tech Used:** React.js, HTML5, CSS3, Bootstrap, GitHub  
+- **Tech Used:** HTML5, CSS3, JavaScript, Bootstrap
 
 ---
 
@@ -68,9 +67,13 @@ RMD Sinhgad School of Engineering, Pune, Maharashtra
 - 📍 Pune, Maharashtra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-patil-dev)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunalpatil-dev)  
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunal.patil.dev@gmail.com)  
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kunalpatil-olive.vercel.app/)  
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kunalpatil_dev/)
 
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white)]([https://your-resume-link.com](https://drive.google.com/file/d/1N6jJSnfIRhxzgeoXZtEf5hYHL2mO57Fs/view?usp=drive_link))
